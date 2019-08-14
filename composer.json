@@ -1,12 +1,12 @@
 {
     "name": "OpenMageModuleFostering/Mage_Locale_de_DE",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "AFL-v3.0",
     "homepage": "",
-    "description": "Magento German Translation",
+    "description": "de_DE locale",
     "authors": [
     {
-        "name": "Magento Core Team",
+        "name": "Magento Team",
         "email": "core@magentocommerce.com"
     }
 ],
